@@ -100,6 +100,7 @@ public class Arma : MonoBehaviour
         //StartCoroutine(reiniciartiempodedisparo());
 
         Debug.Log("Disparando!!!");
+        Debug.Log("Disparando AR<MMAMASMNAJSHS");
     }
 
     public virtual void reproduciranimaciondisparo()
