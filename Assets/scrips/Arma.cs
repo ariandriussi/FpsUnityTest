@@ -101,6 +101,7 @@ public class Arma : MonoBehaviour
 
         Debug.Log("Disparando!!!");
         Debug.Log("Disparando AR<MMAMASMNAJSHS");
+        Debug.Log("Tercer linea");
     }
 
     public virtual void reproduciranimaciondisparo()
