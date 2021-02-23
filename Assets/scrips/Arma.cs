@@ -99,6 +99,7 @@ public class Arma : MonoBehaviour
         balasencartucho--;
         //StartCoroutine(reiniciartiempodedisparo());
 
+        Debug.Log("Disparando!!!");
     }
 
     public virtual void reproduciranimaciondisparo()
